@@ -1,0 +1,84 @@
+NAME  REZWAN
+Surname    ALAM
+Address    DHAKA
+Post Code    1207
+Mobile    1111111111
+Email    @
+Destination    Cox- Bazar - 3 Days
+Accomodation    Single
+Departure    Dhaka
+Tax    970.00
+Subtotal    9700.00
+Total    10670.00
+NAME  ALAM
+Surname    SHETUL
+Address    DHAKA
+Post Code    1207
+Mobile    017345555
+Email    RRRRRR@GMAIL.COM
+Destination    Sylhet (Ratargul-Bisanakand)-2 Days
+Accomodation    Single
+Departure    Dhaka
+Tax    950.00
+Subtotal    9500.00
+Total    10450.00
+NAME  RAIHAN
+Surname    ABRAR
+Address    KHAN
+Post Code    1207
+Mobile    01847604860
+Email    RASHETUL@HOTMAIL.COM
+Destination    Nilgiri - 2 Days
+Accomodation    Double
+Departure    Chittagong
+Tax    1310.00
+Subtotal    13100.00
+Total    14410.00
+NAME  A
+Surname    B
+Address    BC
+Post Code    D
+Mobile    E
+Email    F
+Destination    Sylhet (All) - 4 Days
+Accomodation    Single
+Departure    Comilla
+Tax    1900.00
+Subtotal    19000.00
+Total    20900.00
+NAME  REZWAN
+Surname    AALM
+Address    DHAKA
+Post Code    1207
+Mobile    017555555
+Email    RA@GMAIL.COM
+Destination    Sylhet (All) - 4 Days
+Accomodation    Single
+Departure    Dhaka
+Tax    1900.00
+Subtotal    19000.00
+Total    20900.00
+NAME  Nahid
+Surname    Parvez
+Address    Dhaka
+Post Code    1207
+Mobile    01722222222
+Email    nahid@gmail.com
+Destination    Sylhet (All) - 4 Days
+Accomodation    Single
+Departure    Dhaka
+Tax    1900.00
+Subtotal    19000.00
+Total    20900.00
+NAME  REZWAN
+Surname    ALAM
+Address    DHANMONDI
+Post Code    1207
+Mobile    01734234926
+Email    rashetul@hotmail.com
+Destination    Sylhet (All) - 4 Days
+Accomodation    Single
+Departure    Dhaka
+Tax    1900.00
+Subtotal    19000.00
+Total    20900.00
